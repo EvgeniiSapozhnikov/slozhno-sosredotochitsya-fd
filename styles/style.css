@@ -364,6 +364,7 @@
 @media (width >= 1024px) {
   .description {
     max-width: 491px;
+    margin-top: 10px;
   }
 
   .header,
@@ -374,10 +375,6 @@
   .header {
     grid-template-rows: 2fr 3fr 2fr;
     padding: 20px 20px 0px 0px;
-  }
-
-  .description {
-    margin-top: 10px;
   }
 
   .reasons {
