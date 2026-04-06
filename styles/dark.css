@@ -6,6 +6,7 @@
 
 :root.theme-dark {
   --background-image: url('../images/cover-image-dark.png');
+  --background-color: #000028;
   --cover-letters-color: #DB00FF;
   --accent-color: #FF0070;
   --titles-font-color: #FF0070;
